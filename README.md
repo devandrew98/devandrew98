@@ -2,13 +2,13 @@
 
 # 👋 Olá! Eu sou André Rodrigues
 
-### 💻 Full Stack Developer | Estudante de ADS
+### 💻 Full Stack Developer • AI Enthusiast
 
-Apaixonado por desenvolvimento de software, aplicações Web, Mobile e Inteligência Artificial.
+Sou apaixonado por desenvolvimento de software e por transformar ideias em soluções reais.
 
-Atualmente desenvolvendo projetos reais utilizando React, React Native, Python, Firebase e Docker.
+Atualmente desenvolvo aplicações **Web**, **Mobile** e soluções baseadas em **Inteligência Artificial**, sempre buscando arquitetura limpa, escalabilidade e boas práticas de desenvolvimento.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3FB950&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;React+%7C+React+Native;Python+%7C+FastAPI;Firebase+%7C+Docker;Sempre+aprendendo+novas+tecnologias" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+React+Native;Python+%7C+FastAPI;Docker+%7C+Firebase;LLMs+%7C+LangChain+%7C+RAG;Sempre+aprendendo+novas+tecnologias"/>
 
 </div>
 
@@ -16,121 +16,127 @@ Atualmente desenvolvendo projetos reais utilizando React, React Native, Python, 
 
 # 🚀 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💻 Desenvolvedor Full Stack
-- 📱 Desenvolvimento Web e Mobile
-- 🤖 Estudando Inteligência Artificial
-- 📚 Sempre aprendendo novas tecnologias
-- 🎯 Objetivo: atuar como Desenvolvedor Full Stack
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
+- 🔬 Pesquisador no **Cintesp.br**
+- 💻 Desenvolvedor **Full Stack**
+- 📱 Desenvolvimento de aplicações **Web** e **Mobile**
+- 🤖 Pesquisando **IA Generativa**, **LLMs**, **LangChain**, **Embeddings**, **RAG**, **MCP** e **Agentes Inteligentes**
+- 🐳 Experiência com Docker, APIs REST, bancos relacionais e NoSQL
+- 📚 Aprendizado contínuo e foco em boas práticas de engenharia de software
 
 ---
 
-# 🚀 Tecnologias
+# 💻 Stack Principal
 
 ### Front-end
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 </p>
 
 ### Mobile
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react" height="48"/>
-
+<img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### Back-end
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,php" />
-
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,php,java,spring" />
 </p>
 
 ### Banco de Dados
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=firebase,mysql" />
-
+<img src="https://skillicons.dev/icons?i=firebase,mysql,postgres" />
 </p>
 
 ### DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
 </p>
 
 ---
 
 # 🚀 Projetos em Destaque
 
-## 🎮 Priston Soul Tree
+## 🎮 PristonZone
 
-Sistema para criação e simulação de builds do Priston Tale.
+Plataforma desenvolvida para a comunidade do **Priston Tale EU**, oferecendo ferramentas para auxiliar jogadores.
 
-**Tecnologias**
+### Recursos
 
-- React
-- TypeScript
-- Firebase
+- 🎯 Simulador de Souls
+- ⚔️ Simulador de Builds
+- 👤 Gerenciamento de Personagens
+- 📊 Rankings
+- 🌎 Ferramentas para a comunidade
+
+**Stack**
+
+`React` • `TypeScript` • `Python` • `FastAPI` • `Firebase` • `Docker`
 
 ---
 
 ## 🤖 Plataforma de Agentes IA
 
-Plataforma para criação de agentes inteligentes utilizando IA.
+Plataforma para criação e gerenciamento de Agentes Inteligentes utilizando Inteligência Artificial.
 
-**Tecnologias**
+### Recursos
 
-- Python
-- FastAPI
-- Docker
+- 🤖 Agentes IA
+- 🧠 Memória
+- 📄 Upload de documentos
+- 🔍 RAG
+- 🔗 Integração com APIs
+- 💬 Chat Inteligente
 
----
+**Stack**
 
-## 📅 Event Controller
-
-Aplicativo para gerenciamento de eventos utilizando Firebase.
-
-**Tecnologias**
-
-- React Native
-- Firebase
+`React` • `Python` • `FastAPI` • `PostgreSQL` • `Docker`
 
 ---
 
-## 💰 Sistema de Cobranças
+## 📊 Estatísticas
 
-Sistema completo para gerenciamento de cobranças.
-
-**Tecnologias**
-
-- PHP
-- MySQL
-- Bootstrap
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devandrew98&theme=tokyonight">
 
 ---
 
-## 🌱 Agro Portal
-
-Sistema voltado para gerenciamento agrícola.
-
----
-
-# 📊 Estatísticas
+## 📈 Contribuições
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devandrew98&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devandrew98&theme=tokyo-night&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devandrew98&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+
+---
+
+## 📌 Resumo do Perfil
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devandrew98&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📫 Vamos nos conectar
+
+<div align="center">
+
+<a href="mailto:aliviajr12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/andre-rodrigues07">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -138,45 +144,7 @@ Sistema voltado para gerenciamento agrícola.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devandrew98&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devandrew98&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devandrew98&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 📫 Contato
-
-📧 Email
-
-**aliviajr12@gmail.com**
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/andre-rodrigues07
-
----
-
-<div align="center">
+## 💡 "A melhor forma de aprender é construindo."
 
 ⭐ Obrigado por visitar meu perfil!
 
